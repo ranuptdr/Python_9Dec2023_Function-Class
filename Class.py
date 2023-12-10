@@ -19,6 +19,7 @@ class ThisIsMyClass:
 co = ThisIsMyClass()
 
 # classObject.method()
+# classObject.method(actualargument1,actualArgument2)
 co.addMyTwoNumbers(5,5) # actualarg1=5,actualarg2=5 
 co.addMyTwoNumbers(10,5) # actualarg1=10,actualarg2=5 
 co.addMyTwoNumbers(20,20) # actualarg1=20,actualarg2=20
